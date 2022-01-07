@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <reportName>
+            CXT API's Test Automation
+            <image>
+                <![CDATA[
+               <img src="/xcelLogo.png" style="
+                  height: 100%;
+                     width: 12%;
+                        ">
+		            ]]>
+            </image>
+        </reportName>
+        <reportHeadline>CINT API's</reportHeadline>
+        <theme>dark</theme>
+        <protocol>http</protocol>
+    </configuration>
+</extentreports>
